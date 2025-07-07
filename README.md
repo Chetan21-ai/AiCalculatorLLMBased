@@ -44,7 +44,7 @@ GOOGLE_API_KEY=your-api-key-here
 
 
 License & Usage
-© 2025 Vedant Khadye. All rights reserved.
+© 2025 Chetan Kokate. All rights reserved.
 This project is not open-source and may not be reused, redistributed, or modified without explicit permission.
 
 Publicly visible for educational and demonstrative purposes only.
